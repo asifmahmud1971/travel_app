@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207921328813",
+    "project_id": "travelapp-e6db2",
+    "storage_bucket": "travelapp-e6db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207921328813:android:e977067fd1c4db6c720c24",
+        "android_client_info": {
+          "package_name": "com.asif.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207921328813-81brf92mh32q3hg5gvk2ssiu3ces1mrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asif.travel_app",
+            "certificate_hash": "ba5074e5274a88a2364fb165a4162591aa8eb269"
+          }
+        },
+        {
+          "client_id": "207921328813-oi5o9i2mp5uib2jq2enr81kcg37ovln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMQf_L2p5SsPF72XY7-cq7slcRSqo7Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207921328813-oi5o9i2mp5uib2jq2enr81kcg37ovln4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
